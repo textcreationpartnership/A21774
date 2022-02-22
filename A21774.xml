@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deeds against nature, and monsters by kinde tryed at the goale deliuerie of Newgate, at the sessions in the Old Bayly, the 18. and 19. of Iuly last, 1614. the one of a London cripple named Iohn Arthur, that to hide his shame and lust, strangled his betrothed wife. The other of a lasciuious young damsell named Martha Scambler, which made away the fru[i]t of her own womb, that the world might not see the seed of her owne shame: which two persons with diuers others vvere executed at Tyburne the 21. o[f] Iuly folowing. With two sorrowfull ditties of these two aforesaid persons, made by themselues in Newgate, the night before their execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21774</idno>
+            <idno type="STC">STC 809</idno>
+            <idno type="STC">ESTC S115346</idno>
+            <idno type="EEBO-CITATION">99850565</idno>
+            <idno type="PROQUEST">99850565</idno>
+            <idno type="VID">177200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177200)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 908:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Deeds against nature, and monsters by kinde tryed at the goale deliuerie of Newgate, at the sessions in the Old Bayly, the 18. and 19. of Iuly last, 1614. the one of a London cripple named Iohn Arthur, that to hide his shame and lust, strangled his betrothed wife. The other of a lasciuious young damsell named Martha Scambler, which made away the fru[i]t of her own womb, that the world might not see the seed of her owne shame: which two persons with diuers others vvere executed at Tyburne the 21. o[f] Iuly folowing. With two sorrowfull ditties of these two aforesaid persons, made by themselues in Newgate, the night before their execution.</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by G. Eld] for Edward Wright,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>With woodcut title vignettes.</note>
+                  <note>Partly in verse.</note>
+                  <note>"The cripples complaint in the dungeon at Newgate" and "Martha Scamblers repentance" have caption title.</note>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Some print faded and show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Murder) --  England --  Early works to 1800.</term>
+               <term>Trials (Infanticide) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177200:1" rendition="simple:additions"/>
+            <p>DEEDS AGAINST NATVRE, and Monſters by kinde: Tryed at the Goale deliuerie of <hi>Newgate,</hi> at the Seſ<g ref="char:EOLhyphen"/>ſions in the Old Bayly, the 18. and 19. of <hi>Iuly</hi> laſt, 1614. the one of a London Cripple named <hi>Iohn Arthur,</hi> that to hide his ſhame and luſt, ſtrangled his betrothed wife. The other of a laſciuious yong Damſell named <hi>Martha Scambler,</hi> which made away the fru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of her own womb, that the world <hi>might not ſee the ſeed of her owne ſhame: Which two perſons with diuers others</hi> were executed at Tyburne the 21. o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Iuly following.</p>
+            <p>With two ſorrowfull Ditties of theſe two aforeſaid perſons, made by them<g ref="char:EOLhyphen"/>ſelues in Newgate, the night before their execution.</p>
+            <figure>
+               <figDesc>depiction of the execution of a man by hanging</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of the execution of a woman by hanging</figDesc>
+            </figure>
+            <p>At London printed for <hi>Edward Wright.</hi> 1614.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_crimes">
+            <pb facs="tcp:177200:2"/>
+            <pb facs="tcp:177200:2"/>
+            <head>
+               <hi>Deeds againſt nature, and monſters by kinde:</hi> Tryed at the Goale deliuerie for <hi>Newgate,</hi> at the Seſſions in the Old Bayly, the 18. and 19. of <hi>Iuly,</hi> laſt, 1614. the one of a London Cripple named <hi>Iohn Arthur,</hi> that to hide his ſhame and luſt, ſtrangled his betrothed wife. The other of a laſciuious young Damſell named <hi>Martha Scambler,</hi> which made away the fruit of her own womb, that the world might not ſee the ſeede of her owne <hi>ſhame: Which two perſons with diuers others were executed at Tyburne the</hi> 21. <hi>of Iuly</hi> following.</head>
+            <p>
+               <seg rend="decorInit">I</seg>S it not a maruell, that fire fals not from heauen to conſume an infinite number of worſe then ſauage natur'de people in this land, when vile wretches, whom God hath markt with his ſecret brand of ſe<g ref="char:EOLhyphen"/>cret purpoſe, ſo impiouſly attempt things againſt nature, as for example, (which God grant it may ſo prooue for our amendment) here remained amongſt vs in this Cittie a deformed crea<g ref="char:EOLhyphen"/>ture, an vnperfect wretch wanting the right ſhape and limbes of a man though in forme and viſage like vnto one of vs, this decreped creature (as I ſaid) named <hi>Iohn Arthur,</hi> liued and maintain'd himſelfe with the charitie and deuoti<g ref="char:EOLhyphen"/>ons of almeſ-giuing people, and by his lame and lin bleſſe vſage purchaſed more kinde fauours then many others of his baſe fraternitie: money and meanes being eaſily gained by a few beggerly obſeruations, as a wretch graceleſſe, and
+<pb facs="tcp:177200:3"/> vnthankefull for Gods bleſſings thus beſtowed vpon him, made no good vſe thereof, but ſpent the ſame in the ſeruice of the Diuell, as in blaſphemie ſwearing, drunkennes, and ſuch like, all damnable ſinnes and ſuch as be the nurſes and breeders of others: this afore-named Cripple beeing on a time in the middle of his drunkennes heated with luſt, fell into familiaritie with a certaine woman of his owne condi<g ref="char:EOLhyphen"/>tion; who purpoſing to liue as hee did, vpon charitie, and good mens almes, and ſeeing good benefit to come by his lamenes, vnto whom many people grew willing to giue, promiſed to be his aſſociate, and as his companion and wife to beg with him, many daies and monthes ſpent they toge<g ref="char:EOLhyphen"/>ther, continually abuſing the gifts of charitie, and waſting away the ſame with drunkennes in the by-places and ſub<g ref="char:EOLhyphen"/>burbs of the Citie, which is euermore the receit of ſuch beg<g ref="char:EOLhyphen"/>ging vacabonds and diſordred liuers, inſtruments of the diuell prepared ſtill for déeds of miſchieſe. This Cripple ha<g ref="char:EOLhyphen"/>uing not one good thought of God gr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, ſo luſted after his begging companion, that he obtained the daily vſe of her bo<g ref="char:EOLhyphen"/>die, and continually committed ſo that ſinne of luſt &amp; ſhame, making a practiſe thereof in the contempt of Gods Lawes, that the eye of heauen could no longer winke at them, but with a cleare ſight ſee into their baſe wickednes: yea more then baſe in that a deformed lumpe of fleſh and no perfect creature ſhould thus abuſe the ſéed of generation, and now and then in the fields and high-waies commit ſuch beaſtly offences: but God we ſee hath iron hands, and will at laſt ſtrike heauily, as hee did vpon theſe two ſhameleſſe male<g ref="char:EOLhyphen"/>factors: For the Cripple in time ſurfetting vpon this his ſhame, and growing weary of this hated offence, as all peo<g ref="char:EOLhyphen"/>ple will doe, being not lawfully married, bgan to caſt her off, and to loath her company though he himſelfe might be thought the more loathſome, which ſhe (abuſed women) per<g ref="char:EOLhyphen"/>ceiuing, and knowing her ſelfe to be but his ſtrumpet, chal<g ref="char:EOLhyphen"/>lenged of him the promiſe of marriage, and ſo importuned him thereunto by his former vowes and promiſes, and that heauen would otherwiſe cal his periured oathes to account,
+<pb facs="tcp:177200:3"/> all inſtigations of the diuell, and ſubtill policies to drawe them both to deſtruction, her importunate ſutes to mariage ſo troubled his mind, bred ſuch a rage in his heart, that a purpoſe came into his minde to rid her away by ſome vn<g ref="char:EOLhyphen"/>timely death: a motion no ſooner ſet on fire, but the diuell was readie to bring more fewell, and neuer reſted till it was all on a flame: ſo vpon a night, a time fitting for ſuch a dark déede, the Cripple enticed her forth into the fields neere I<g ref="char:EOLhyphen"/>ſlington, where ſecretly at the Brick Kils, the lodging place for rogues and night walkers, he renewed his former fami<g ref="char:EOLhyphen"/>liaritie, and with a diſſembling kindnes perſwaded her to lodge there with him all night, which ſhe, miſtruſtleſſe wo<g ref="char:EOLhyphen"/>man, conſented too, and little miſdoubting his diuelliſh in<g ref="char:EOLhyphen"/>tent laid her downe vpon a pallat of ſtraw by him to ſleepe which as a token of hard miſfortune ſodainely poſſeſſed her: The Cripple perceiuing all ſecure and ſilent, and now thin<g ref="char:EOLhyphen"/>king to be rid of the ſhame thus daily following him, tooke the womans owne girdle, and putting the ſame ſlyly about her necke, where though nature had denyed him ſtrength and limbes, yet by the help of the diuell, which alwaies adds force to villany, he made meanes in her ſléep to ſtrangle her, and to take away her life, as it were ſodainely without re<g ref="char:EOLhyphen"/>pentance: therefor all people by this example ought ſtill to be prepared for death, for hee comes as a thiefe in the night, and giues no warning: who would haue thought ſuch an out-caſt of the world, ſuch a lame deformed creature, not able of his owne ſtrength to help himſelfe, ſhould haue po<g ref="char:EOLhyphen"/>wer to take away anothers life, but the diuell wee ſée is a cunning, and will ſtill make the ſimple his ſtrongeſt aſſi<g ref="char:EOLhyphen"/>ſters, and thoſe that bee the moſt weakeſt, to be of the vi<g ref="char:EOLhyphen"/>leſt thoughts, but to conclude, the Cripple, blinded thus with his owne ſhame, had that ignorant opinion of the diſcouerie hereof, that he thought the world too ſimple to looke into his life, and his decreped carriage would keep away all ſuſpiti<g ref="char:EOLhyphen"/>on, and that no man would thinke a lame creature could be able to doe ſo wicked a deede: but graceleſſe varlet, as hee was, too much flattered in his own opinion, the Diuell as
+<pb facs="tcp:177200:4"/> he was firſt beginner of his ſinne, ſo was hee laſt end of his ſhame, for the ſame morning the woman was found thus murthered, and beeing ſeene the night before in his compa<g ref="char:EOLhyphen"/>nie with ſlender examinations confeſſed the fact, where for the ſame hee had his tryall at the Seſſions by a Iury of twelue men and his execution at Tyburne in the ſight of many hundreds of men, women and children, which ac<g ref="char:EOLhyphen"/>counts him to be a Monſter by kinde and the dooer of a déed againſt nature.</p>
+            <p>Like vnto this viper of our age, wee are to place in our diſcourſe another Caterpiller of nature, a creature more ſauage then a ſhée woolfe, more vnnaturall then either bird or beaſt, for euery creature hath a tender feeling of loue to their young, except ſome few murtherous-minded ſtrum<g ref="char:EOLhyphen"/>pets, woemen I cannot call them, for a woman eſteemes the fruit of her owne womb, the pretious and deareſt Iew<g ref="char:EOLhyphen"/>ell of the world, and for the cheriſhing of the ſame will (as it were) ſpend her liues pureſt blood, where, contrariwiſe the harlot (delighting in ſhame and ſinne) makes no conſci<g ref="char:EOLhyphen"/>ence to be the butcher of her owne ſeed, nay the Image of God created in her owne body, and now and then in the conception makes ſpoyle of the bed of creation before it can receiue true forme., Therefore for an example likewiſe caſt your eyes vpon this other monſter of nature, which was a laſciuious, lewd and cloſe ſtrumpet, a harlot lodging pri<g ref="char:EOLhyphen"/>uately neere Biſhops-gate in Bedlam at a kinſmans hauſe of hirs, which little ſuſpected this hir vnwomanly carriage but ſhame long raked vp in the aſhes of ſecreſie, though cloſe ſmoking, will at laſt breake forth into open flame: ſo this graceles wanton (ſpending her youth in laſciuious pleaſures, as many a one doth in and about this Citty) hap<g ref="char:EOLhyphen"/>ded to proue w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th child, &amp; hauing no huſband to couer this her act of ſhame, and withall ſoaring the diſgrace of the world, by a diuiliſh practiſe ſought to conſume it in her body before the birth, but not preuailing (as God would haue it) thee was forced by nature to deliuer it aliue to the world, and ſo was made the vnhappy mother of a man-child
+<pb facs="tcp:177200:4"/> vnhappy I may name her, for her owne hand made her vn<g ref="char:EOLhyphen"/>happy. To our purpoſe, her luſty body, ſtrong nature, and feare of ſhame brought an eaſines to her deliuery, and re<g ref="char:EOLhyphen"/>quired in her agony no help of a midwife which among wo<g ref="char:EOLhyphen"/>men ſeemeth a thing very ſtrange, for not ſo much as the leaſt child in the houſe where ſhe lodged had knowledge of her labour, nor hardly was ſhe thought to be with child, ſo cloſely demeaned ſhe her ſelfe, but the deuill we ſee addes force vnto wickednes, and puts a kind of ſtrength to nature in that kind, otherwiſe had ſhe beene diſcouered in the child<g ref="char:EOLhyphen"/>birth.</p>
+            <p>Conſider this the Child being borne with ſhame and ſhe by it made a ſcandall to her acquaintance, renewed the re<g ref="char:EOLhyphen"/>memberance of her paſſed ſinnes, and preſented preſent ſhame vnto her grieued thoughts, which troubled cogitati<g ref="char:EOLhyphen"/>ons, by the perſwaſions of the Diuill, put her in mind vio<g ref="char:EOLhyphen"/>lently to make it away, and to giue it death before the bo<g ref="char:EOLhyphen"/>dy had well recouered life, whereupon taking the poore tender babe as it were new dropt from the mothers womb, and not like a mother, but a monſter threw it downe into a lothſome priuy houſe, therein to giue it an vndecent graue and as ſhee thought therby make to her ſelfe a ridance of a further Infamy, but God is Iuſt and will reward ſhame where it is deſerued, and ſuch vnnaturall deedes, let them be acted in deſerts, in the cauernes of the earth, where ne<g ref="char:EOLhyphen"/>uer light of day nor Sun ſhines, yet will they be diſcouered and brought to the worlds eye, ſo hapned it with this har<g ref="char:EOLhyphen"/>lot, when all feare of ſuſpition was paſt, ſhee ſafely deli<g ref="char:EOLhyphen"/>uered, the Childe in the priuy ſmothered, and in the world no notice taken thereof, yet in the end was it thus moſt ſtrangly diſcouered, the Tunnill of the aforeſaid vault or priuy aſſended vp into the next neighbours houſe, as in ma<g ref="char:EOLhyphen"/>ny places they doe, where by chance (as God had ordayned) dwelled an vnto vard ladd that in taking delight in knauiſh paſtimes tooke a cur Dog then vſing the houſe and care<g ref="char:EOLhyphen"/>leſly threw it downe the Tunnell into the vault, where the murthered infant lay, and taking noe regard thereof, ſuf<g ref="char:EOLhyphen"/>fered
+<pb facs="tcp:177200:5"/> the Dog to remaine there ſtaruing and crying for food the ſpace of three dayes and nights, during which time the yelping of the dog much diſquieted the neighbours, and ſo troubled the dwellers there abouts, that they could not ſleepe a nights for the noyſe, but eſpecially the good man of the houſe, who greeued to ſée a dumbe beaſt ſo ſtarued, and for want of food thus to periſh like a kind natur'd man cauſed the priuy to be opened and the poore curre taken vp, which proued by Gods Iuſtice the only diſcouerer of the a<g ref="char:EOLhyphen"/>foreſaid fact for in taking vp the dog, they were wofull witneſſes of the ſweet Babe lying all beſmeared with the filth of that loathſome place. The ſight whereof cauſed no ſmall amazement, eſpecially to the good man of the houſe, who with a diligent care (as his duty was both to God and his country) and that all ſuch inhumaine deeds might bee brought to light, made it knowns to the Magiſtrates, which likewiſe with Chriſtian care cauſed a certaine number of ſubſtantiall woemen to ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſearch of ſuſpected perſons, and of ſuch who were like to be the murthered Infants mo<g ref="char:EOLhyphen"/>ther, or murtherer, amongſt many other looſe liuers and common harlots, of which number thoſe by places haue too many, the more is the pitty, this aforeſaid murthereſſe came to the touch, where vpon examination, ſhe confeſſed the child to be borne with life, and her ſelfe not worthy of life, and ſo pleading guilty ſhe was brought to her triall, &amp; for the ſame araigned and condemned by the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nch of aſſize in the old Baily the 18. and 19: of Iuly laſt 1614. and hath ſuffred death at Tyburne the 21. following as an example, that god, either by beaſts of the field, ſoules of the ayre, fiſhes in the ſeas, wormes in the ground, or things bearing neither ſence nor life will by one meanes or other make deedes of darknes cleare as day, that the world may behold his high working powers, and that no malefactor can eſcape vnpuni<g ref="char:EOLhyphen"/>ſhed, though his déeds be as ſecret as the w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>kes of hell, be<g ref="char:EOLhyphen"/>yond the thought of humane imagination, conuert vs from ſin great God of Iſrael, ſo ſhal we neuer be endangered with the like perſwaſions, which God in his mercy grant. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:177200:5"/>
+            <head>The Cripples complaint in the Dungeon at Newgate.</head>
+            <lg>
+               <l>ME thinkes I heare a dolefull ſound,</l>
+               <l>Within this dungeon vnder ground:</l>
+               <l>Prepare thy ſelfe (poore ſoule) to dye,</l>
+               <l>For ſo the Belmans voyce doth cry.</l>
+            </lg>
+            <lg>
+               <l>And Beggars all come ring my knell,</l>
+               <l>The Cripple now bids all farewell:</l>
+               <l>Both Crutches, Scrip, and patched gowne,</l>
+               <l>Wherewith I beg'd from towne to towne.</l>
+            </lg>
+            <lg>
+               <l>Though limbes I want and could not go,</l>
+               <l>Yot was my mind not pleaſed ſo:</l>
+               <l>But had my faults, as others haue,</l>
+               <l>Which brings me thus vnto my graue.</l>
+            </lg>
+            <lg>
+               <l>In vaine delights I ſpent my daies,</l>
+               <l>And wrong'd my fortunes many waies:</l>
+               <l>The almes that good men gaue me ſtill,</l>
+               <l>I waſted to content my will.</l>
+            </lg>
+            <lg>
+               <l>For heauen had markt me out for ſhame,</l>
+               <l>Whereto I did my courſes frame:</l>
+               <l>And as I was miſhapt by kind,</l>
+               <l>Deformed alſo was my mind.</l>
+            </lg>
+            <lg>
+               <l>For by that ſwéete intiſing ſinne,</l>
+               <l>My ſodaine downefall did begin:</l>
+               <l>Wherein I ſet my harts delight,</l>
+               <l>On wanton women day and night.</l>
+            </lg>
+            <lg>
+               <l>At laſt when I loues pleaſures prou'd,</l>
+               <l>I hated her whom late I lou'd:</l>
+               <l>And ſodaine loathing, ſoone begun</l>
+               <l>Aſhamed ſore, of follies dun.</l>
+            </lg>
+            <lg>
+               <l>And ſtill deſired to end the life</l>
+               <l>Of her, I promiſt to make Wife:</l>
+               <l>For loue ſo gaind can neuer laſt,</l>
+               <l>No ſooner done, but loue is paſt.</l>
+            </lg>
+            <lg>
+               <l>Then as my ſhame I hated her,</l>
+               <l>And would her death no time defer:</l>
+               <pb facs="tcp:177200:6"/>
+               <l>But arm'd with wroth in dead of night,</l>
+               <l>I traind her from all peoples ſight.</l>
+            </lg>
+            <lg>
+               <l>That neuer more my follies great,</l>
+               <l>To my diſgrace ſhe ſhould repeat:</l>
+               <l>Nor ſay vnto the world, that I</l>
+               <l>Had liu'd with her moſt wantonly.</l>
+            </lg>
+            <lg>
+               <l>For in the fieldes we two alone,</l>
+               <l>With wéeping teares and bitter mone:</l>
+               <l>She crau'd amends for my amiſſe.</l>
+               <l>To make her W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe as reaſon is.</l>
+            </lg>
+            <lg>
+               <l>But I refuſ'd that honeſt courſe,</l>
+               <l>But did an act of ſad remorſe:</l>
+               <l>To end her ſhame with mine as then,</l>
+               <l>I did excéede the déedes of men.</l>
+            </lg>
+            <lg>
+               <l>The deuill my helper at that hower,</l>
+               <l>For he as then had ſtrongeſt power:</l>
+               <l>Nor by his meanes I could not faint,</l>
+               <l>Though I was lame and limbes did want.</l>
+            </lg>
+            <lg>
+               <l>My heart with furious rage poſſeſt,</l>
+               <l>About her necke her girdle caſt,</l>
+               <l>And forced ſo away her life,</l>
+               <l>Rather then make her married wife.</l>
+               <l>Neuer like déed by Cripple wrought,</l>
+               <l>For pleaſures being too dearely bought,</l>
+               <l>Both old and young, both rich and poore,</l>
+               <l>Make neuer maid a common Whoore.</l>
+            </lg>
+            <lg>
+               <l>For doing ſo my life I loſs,</l>
+               <l>With burthens of repentant woes,</l>
+               <l>For wanton loues are witched things,</l>
+               <l>And with them ſtill much ſorrow brings.</l>
+            </lg>
+            <lg>
+               <l>Adiew vaine world, the Cripple dies,</l>
+               <l>In this my life much wonder lies:</l>
+               <l>That borne a lame deformed wight,</l>
+               <l>Should thus take pride in loues delight.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:177200:6"/>
+            <head>Martha Scamblers Repentance.</head>
+            <lg>
+               <l>POore I the pooreſt now on earth,</l>
+               <l>may well accuſe my cauſe of birth:</l>
+               <l>Not being borne I nere had knowne,</l>
+            </lg>
+            <lg>
+               <l>This guilt that hath me ouerthrowne.</l>
+               <l>Wo worth the cauſe of ſinne and ſhame,</l>
+               <l>Which ſtaines my credit and good name:</l>
+               <l>Wo worth the traines which ſtill are laid,</l>
+               <l>Whereby we woemen are betraid.</l>
+            </lg>
+            <lg>
+               <l>When I was won to follies will,</l>
+               <l>And tooke delight in doing ill</l>
+               <l>No thought I had of pleaſures paſt:</l>
+               <l>But ſtill my youth did vainely waſt.</l>
+            </lg>
+            <lg>
+               <l>Till at the length my womb did bread,</l>
+               <l>A ſubſtance of vnlawfull ſeeds:</l>
+               <l>Which I ſuppoſd a ſhame to be</l>
+               <l>(God knowes) vnto my friends and me.</l>
+               <l>And to preuent the worlds diſgrace,</l>
+               <l>I ſought to finde a ſecret place,</l>
+               <l>My ſhamefull burthened wombe to eaſe,</l>
+               <l>That way which did my God diſpleaſe.</l>
+               <l>O, when my houre of labour came,</l>
+               <l>To bring to light this fruit of ſhame,</l>
+               <l>No Midwiues help at all I ſought,</l>
+               <l>But ſoone my owne deliuerie wrought.</l>
+               <l>The Babe being borne and in my armes,</l>
+               <l>I ſhould haue kept it from all harmes,</l>
+               <l>But like a Beare or Woolfe in wood,</l>
+               <l>I wiſht it ſmothered vp in blood.</l>
+               <l>Whereat ſtrange motions without feare,</l>
+               <l>From hell to me preſented were,</l>
+               <l>And bad me bury it in a Vault,</l>
+               <l>For none aliue did know my fault.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177200:7"/>
+               <l>And ſo my credit and good name,</l>
+               <l>Should take no ſpot of black defame:</l>
+               <l>And I as pure and chaſt ſhould be,</l>
+               <l>From ſuch a crime as any ſhe.</l>
+            </lg>
+            <lg>
+               <l>My ſhoule then blinded by the Diuell,</l>
+               <l>Bid me conſent vnto this euill:</l>
+               <l>Where I full ſoone thereto agreed,</l>
+               <l>To act a more then womans deede.</l>
+            </lg>
+            <lg>
+               <l>The loathſome Iakes receau'd my child,</l>
+               <l>Which all miſdoubts and feare exild</l>
+               <l>For being tumbled downe therein,</l>
+               <l>There well might end my ſhame and ſinne.</l>
+            </lg>
+            <lg>
+               <l>But God, this déed more darke then night,</l>
+               <l>In wondrous ſort did bring to light,</l>
+               <l>For by a Dog the Child was found,</l>
+               <l>As it was throwne therein to drown'd.</l>
+            </lg>
+            <lg>
+               <l>Three dayes and nights with yelping cry,</l>
+               <l>It troubled much the dwellers by,</l>
+               <l>Which cauſ'd them to releaſe him thence,</l>
+               <l>And ſo found out this vile offence.</l>
+            </lg>
+            <lg>
+               <l>For which I ſurely now muſt taſt,</l>
+               <l>Rewards for my offences paſt,</l>
+               <l>And dye for that accurſed crime,</l>
+               <l>That makes me monſter of my time.</l>
+               <l>Both maides and men, both yong and old,</l>
+               <l>Let not good liues with ſhame be ſold,</l>
+               <l>But beare true vertues to your graue,</l>
+               <l>That honeſt burials you may haue.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177200:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
